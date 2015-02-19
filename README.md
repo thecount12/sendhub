@@ -67,4 +67,7 @@ Dynamic:
 
 	curl -X POST -H "Content-Type: application/json" -d '{"message": "SendHub Rocks", "recipients": ["510-555-5556", "412-555-5555", "412-555-5554", "412-555-5553", "412-555-5552", "412-555-5551"]}' http://madscott.org:5000/dynamic
 
+<b>Improvements</b>
+
+Change Patterns for phone numbers (222) with parenthesis.
 
