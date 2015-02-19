@@ -69,5 +69,5 @@ Dynamic:
 
 <b>Improvements</b>
 
-Change Patterns for phone numbers (222) with parenthesis.
+Change Patterns for phone numbers with parenthesis: example (510) 555 - 1212.
 
