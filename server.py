@@ -76,6 +76,7 @@ def dynamic():
     dynamic 
     '''
     data = request.json
+    
     try:
         validate(data, schema)
     except ValidationError:

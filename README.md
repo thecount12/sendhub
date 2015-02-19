@@ -4,7 +4,7 @@
 
 http://www.madscott.org/sendhub/
 
-API using python-Flask
+API using python-Flask for a django version of this API visit link below
 
 Goal to Build an HTTP REST API endpoint that routes messages optimizing for the number of 
 network requests. 
