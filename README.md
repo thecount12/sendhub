@@ -16,7 +16,9 @@ network requests.
 <b>Looks to be coin change problem</b>
 
 http://en.wikipedia.org/wiki/Change-making_problem
+
 http://en.wikipedia.org/wiki/Coin_problem
+
 https://bitbucket.org/trebsirk/algorithms/src/9728989fdff75481cc419593f4189e6e07132287/coinchanging.py?at=master
 
 http://bryceboe.com/2009/11/04/dynamic-programming-%E2%80%93-coin-change-problem-in-python/
