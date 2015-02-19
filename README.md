@@ -54,4 +54,14 @@ In the US (and most other) coin systems, a greedy algorithm of picking the large
 
 Having the total number of categories, we can solve using dynanmic programming. 
 
+<b>Testin with sample code</b>
+
+Greed:
+
+	curl -X POST -H "Content-Type: application/json" -d '{"message": "SendHub Rocks", "recipients": ["510-555-5556"]}' http://madscott.org:5000/greed
+
+Dynamic: 
+
+	curl -X POST -H "Content-Type: application/json" -d '{"message": "SendHub Rocks", "recipients": ["510-555-5556", "412-555-5555", "412-555-5554", "412-555-5553", "412-555-5552", "412-555-5551"]}' http://madscott.org:5000/dynamic
+
 
