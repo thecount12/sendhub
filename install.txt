@@ -1,0 +1,18 @@
+Dependencies
+
+apt-get install python-flask 
+apt-get install python-jsonschema
+apt-get install gunicorn
+apt-get install python-itsdangerous
+apt-get install python-wsgiref
+
+unzip archive
+
+execute: python server.py
+
+test server with following scripts
+
+test.sh
+testdyn.sh
+gunns.sh is another test with 15 international number with correct info deprecated
+
