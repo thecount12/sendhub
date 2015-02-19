@@ -1,8 +1,10 @@
 # Platform Developer Programming Challenge
 =======
-<b>Hosted on Madscott.org</b>
+<b>Hosted on Madscott.org</b> 
 
 http://www.madscott.org/sendhub/
+
+API using python-Flask
 
 Goal to Build an HTTP REST API endpoint that routes messages optimizing for the number of 
 network requests. 
@@ -71,3 +73,6 @@ Dynamic:
 
 Change Patterns for phone numbers with parenthesis: example (510) 555 - 1212.
 
+<b>Django Implementation</b>
+
+http://www.github.com/thecount12/DjangoSendhub
